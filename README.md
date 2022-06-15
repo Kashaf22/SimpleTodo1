@@ -25,6 +25,8 @@ Here's a walkthrough of implemented user stories:
 
 Describe any challenges encountered while building the app.
 
+N/A
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
